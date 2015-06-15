@@ -1,0 +1,1 @@
+This is intended to be a scratchpad for a series of experiments using the canvas tag, JQuery plugins, Processing for Javascript and a hopefully tasty concoction of CSS3 and static and/or dynamic media.
